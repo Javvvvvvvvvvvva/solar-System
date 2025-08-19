@@ -7,7 +7,7 @@ button.style.marginTop = '100px';
 document.body.style.backgroundColor = 'black';
 document.body.style.color = 'white';
 button.onclick = function() {
-window.location.href = 'pro-2.html';
+window.location.href = 'index.html';
 };
 //coment count
 const inputBar = document.querySelector("#comment-input");
